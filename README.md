@@ -6,7 +6,7 @@ https://www.ikachi.org/
   
 このWebサイトを出版社にアピールし、コンピューター書籍を執筆する機会を入手することもできました。今ではWindows OSやデータベースに関する書籍を中心に、共著も含めると20冊近くの書籍を執筆させていただきました。  
 私のAmazonの著者サイトは、以下のURLのとおりです。  
-https://www.amazon.co.jp/%E4%BA%94%E5%8D%81%E5%B5%90-%E8%B2%B4%E4%B9%8B/e/B004LVKWZ2
+https://www.amazon.co.jp/kindle-dbs/entity/author/B004LVKWZ2
 
 ## 経験
 - Windowsアプリケーションの開発
