@@ -1,4 +1,4 @@
-# 自己紹介
+# プロフィール
 パッケージ・ソフトウェアの開発を18年。（会計・自動車登録等）  
 証券会社にて社内システムの開発を3年。  
 その後、フリーとなり、合同会社ＩＫＡＣＨＩ設立。  
@@ -12,6 +12,7 @@ https://www.amazon.co.jp/kindle-dbs/entity/author/B004LVKWZ2
 ## 経験
 - Windowsアプリケーションの開発
 - Webアプリケーションの開発
+- MetaTrader EAの開発
 - iOS／Androidアプリケーションの開発（monaca利用）
 - クラウドサービスを利用したシステムのご提案
 - データベースに関する書籍の執筆
@@ -22,6 +23,7 @@ https://www.amazon.co.jp/kindle-dbs/entity/author/B004LVKWZ2
 - C#
 - PHP
 - SQL
+- MQL（MetaTrader）
 
 ## データベース
 - SQL Server
@@ -30,6 +32,8 @@ https://www.amazon.co.jp/kindle-dbs/entity/author/B004LVKWZ2
 - Access
 
 ## 業務
+- SQL Serverパフォーマンスチューニング
+- MetaTrader EA開発
 - 会計システム　パッケージ・ソフトウェア開発
 - 税務システム　パッケージ・ソフトウェア開発
 - 行政書士向け自動車登録支援システム　パッケージ・ソフトウェア開発
